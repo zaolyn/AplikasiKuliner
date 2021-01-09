@@ -1,16 +1,14 @@
-package com.example.kulinerapp
+package com.example.KulinerMantap
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.kulinerapp.adapter.ListKulinerAdapter
-import com.example.kulinerapp.adapter.ListKulinerViewHolder
-import com.example.kulinerapp.databinding.ActivityMainBinding
-import com.example.kulinerapp.pojo.KulinerItem
-import com.example.kulinerapp.pojo.ResponseKuliner
-import com.example.kulinerapp.remote.KulinerInterface
-import com.example.kulinerapp.remote.RetrofitService
+import com.example.KulinerMantap.adapter.ListKulinerAdapter
+import com.example.KulinerMantap.databinding.ActivityMainBinding
+import com.example.KulinerMantap.pojo.KulinerItem
+import com.example.KulinerMantap.remote.KulinerInterface
+import com.example.KulinerMantap.remote.RetrofitService
 import kotlinx.coroutines.launch
 
 class MainActivity : AppCompatActivity() {

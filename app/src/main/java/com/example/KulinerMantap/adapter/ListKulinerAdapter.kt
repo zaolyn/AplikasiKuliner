@@ -1,12 +1,12 @@
-package com.example.kulinerapp.adapter
+package com.example.KulinerMantap.adapter
 
 import android.content.Intent
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.example.kulinerapp.DetailKuliner
-import com.example.kulinerapp.databinding.ItemListBinding
-import com.example.kulinerapp.pojo.KulinerItem
+import com.example.KulinerMantap.DetailKuliner
+import com.example.KulinerMantap.databinding.ItemListBinding
+import com.example.KulinerMantap.pojo.KulinerItem
 
 class ListKulinerAdapter : RecyclerView.Adapter<ListKulinerViewHolder>() {
 

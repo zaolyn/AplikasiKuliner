@@ -1,13 +1,9 @@
-package com.example.kulinerapp.adapter
+package com.example.KulinerMantap.adapter
 
-import android.widget.ImageView
-import android.widget.TextView
-import androidx.core.net.toUri
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.example.kulinerapp.databinding.ItemListBinding
-import com.example.kulinerapp.pojo.KulinerItem
-import com.google.android.material.card.MaterialCardView
+import com.example.KulinerMantap.databinding.ItemListBinding
+import com.example.KulinerMantap.pojo.KulinerItem
 
 class ListKulinerViewHolder(val bind: ItemListBinding) : RecyclerView.ViewHolder(bind.root) {
 

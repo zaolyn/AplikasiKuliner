@@ -1,4 +1,4 @@
-package com.example.kulinerapp.pojo
+package com.example.KulinerMantap.pojo
 
 import android.os.Parcelable
 import com.google.gson.annotations.SerializedName

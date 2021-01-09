@@ -1,10 +1,10 @@
-package com.example.kulinerapp
+package com.example.KulinerMantap
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.bumptech.glide.Glide
-import com.example.kulinerapp.databinding.ActivityDetailKulinerBinding
-import com.example.kulinerapp.pojo.KulinerItem
+import com.example.KulinerMantap.databinding.ActivityDetailKulinerBinding
+import com.example.KulinerMantap.pojo.KulinerItem
 import kotlinx.android.synthetic.main.activity_detail_kuliner.*
 
 class DetailKuliner : AppCompatActivity() {

@@ -1,4 +1,4 @@
-package com.example.kulinerapp
+package com.example.KulinerMantap
 
 import org.junit.Test
 

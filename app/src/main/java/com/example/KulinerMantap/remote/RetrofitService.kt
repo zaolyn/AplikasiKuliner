@@ -1,4 +1,4 @@
-package com.example.kulinerapp.remote
+package com.example.KulinerMantap.remote
 
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit

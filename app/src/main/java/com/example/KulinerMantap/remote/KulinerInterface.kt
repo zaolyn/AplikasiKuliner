@@ -1,6 +1,6 @@
-package com.example.kulinerapp.remote
+package com.example.KulinerMantap.remote
 
-import com.example.kulinerapp.pojo.ResponseKuliner
+import com.example.KulinerMantap.pojo.ResponseKuliner
 import retrofit2.Response
 import retrofit2.http.GET
 
